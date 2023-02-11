@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 👨‍💼 I’m currently working Shenzhen,China.
+- 👨‍💼 I’m currently working Chengdu,China.
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I’m currently learning english.
 - 👯 I’m currently learning security.
 
