@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 
 🎇Thanks for attention! 🍻
 
-![h4m0r's github stats](https://github-readme-stats.vercel.app/api?username=h4mor&show_icons=true&theme=merko)
+![h4m0r's github stats](https://github-readme-stats.vercel.app/api?username=h4m0r&show_icons=true&theme=merko)
